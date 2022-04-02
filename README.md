@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishkujoy" alt="ashishkujoy" /></a> </p>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ashish-kumar-b67603193/](https://www.linkedin.com/in/ashish-kumar-b67603193/)
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
